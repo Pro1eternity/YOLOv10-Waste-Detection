@@ -1,2 +1,2 @@
-# YOLOv10-Waste-Detection
+# Waste
 The datasets and the codes will be updated later.
